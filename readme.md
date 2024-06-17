@@ -9,4 +9,4 @@
 <!-- Say1ddd/Say1ddd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. -->
 
-![Say1ddd's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=say1ddd&langs_count=20&layout=compact&bg_color=90,000,000&title_color=fff&text_color=fff)
+![Say1ddd's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=say1ddd&langs_count=20&layout=compact&bg_color=90,0d1117,0d1117&title_color=fff&text_color=fff)
