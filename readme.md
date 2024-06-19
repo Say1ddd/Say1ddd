@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Say1ddd
 - 👀 I’m interested in web development, artificial intelligence, and open-source projects.
-- 🌱 I’m currently learning React, Go, and more.
+- 🌱 I’m currently learning Vue, NodeJS, and ExpressJS.
 - 💞️ I’m looking to collaborate on innovative tech projects, especially those that involve AI or web development.
 - 📫 How to reach me: You can reach me via email or by visiting my perosonal website [link](https://sajidikhlas.me).
 - 😄 Pronouns: Pronouns? Just call me by my name
