@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, artificial intelligence, and open-source projects.
 - 🌱 I’m currently learning Vue, NodeJS, and ExpressJS.
 - 💞️ I’m looking to collaborate on innovative tech projects, especially those that involve AI or web development.
-- 📫 How to reach me: You can reach me via email or by visiting my perosonal website [link](https://sajidikhlas.me).
+- 📫 How to reach me: You can reach me via email [contact@ikhlas.works](mailto:contact@ikhlas.works)
 - 😄 Pronouns: Pronouns? Just call me by my name
 <!-- - ⚡ Fun fact: -->
 
